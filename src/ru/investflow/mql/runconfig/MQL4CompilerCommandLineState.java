@@ -124,7 +124,7 @@ class MQL4CompilerCommandLineState extends CommandLineState {
             cmd.addParameter(metaeditorExePath);
             cmd.getEnvironment().put("WINEDEBUG", "-all"); // disable wine related warnings and debug logs.
         }
-        cmd.addParameter("/compile:" + copiedFileToCompile.getName());
+        cmd.addParameter("/compile:" + copiedFileToCompile.getPath());
         cmd.addParameter("/log");
 
         cmd.withParentEnvironmentType(GeneralCommandLine.ParentEnvironmentType.CONSOLE);

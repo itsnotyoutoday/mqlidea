@@ -57,7 +57,7 @@ public class MQL4DocumentationProvider extends DocumentationProviderEx implement
     }
 
     private static void loadResource(@NotNull String name, @NotNull DocEntryType type) {
-        String resource = "/mql/doc/" + name + ".json";
+        String resource = "mql/doc/" + name + ".json";
         try (Reader reader = new InputStreamReader(loader.getResourceAsStream(resource), StandardCharsets.UTF_8)) {
             Gson gson = new GsonBuilder().create();
             JsonArray arr = gson.fromJson(reader, JsonArray.class);

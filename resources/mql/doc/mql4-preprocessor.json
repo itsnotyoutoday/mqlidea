@@ -1,38 +1,38 @@
 [
   [
     "#define",
-    "/basis/preprosessor/constant"
+    "basis/preprosessor/constant"
   ],
   [
     "#undef",
-    "/basis/preprosessor/constant"
+    "basis/preprosessor/constant"
   ],
   [
     "#property",
-    "/basis/preprosessor/compilation"
+    "basis/preprosessor/compilation"
   ],
   [
     "#include",
-    "/basis/preprosessor/include"
+    "basis/preprosessor/include"
   ],
   [
     "#import",
-    "/basis/preprosessor/import"
+    "basis/preprosessor/import"
   ],
   [
     "#ifdef",
-    "/basis/preprosessor/conditional_compilation"
+    "basis/preprosessor/conditional_compilation"
   ],
   [
     "#ifdef",
-    "/basis/preprosessor/conditional_compilation"
+    "basis/preprosessor/conditional_compilation"
   ],
   [
     "#else",
-    "/basis/preprosessor/conditional_compilation"
+    "basis/preprosessor/conditional_compilation"
   ],
   [
     "#else",
-    "/basis/preprosessor/conditional_compilation"
+    "basis/preprosessor/conditional_compilation"
   ]
 ]

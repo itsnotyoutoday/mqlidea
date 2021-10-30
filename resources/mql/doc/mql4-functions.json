@@ -1,1790 +1,1790 @@
 [
   [
     "AccountBalance",
-    "/account/accountbalance"
+    "account/accountbalance"
   ],
   [
     "AccountCompany",
-    "/account/accountcompany"
+    "account/accountcompany"
   ],
   [
     "AccountCredit",
-    "/account/accountcredit"
+    "account/accountcredit"
   ],
   [
     "AccountCurrency",
-    "/account/accountcurrency"
+    "account/accountcurrency"
   ],
   [
     "AccountEquity",
-    "/account/accountequity"
+    "account/accountequity"
   ],
   [
     "AccountFreeMargin",
-    "/account/accountfreemargin"
+    "account/accountfreemargin"
   ],
   [
     "AccountFreeMarginCheck",
-    "/account/accountfreemargincheck"
+    "account/accountfreemargincheck"
   ],
   [
     "AccountFreeMarginMode",
-    "/account/accountfreemarginmode"
+    "account/accountfreemarginmode"
   ],
   [
     "AccountInfoDouble",
-    "/account/accountinfodouble"
+    "account/accountinfodouble"
   ],
   [
     "AccountInfoInteger",
-    "/account/accountinfointeger"
+    "account/accountinfointeger"
   ],
   [
     "AccountInfoString",
-    "/account/accountinfostring"
+    "account/accountinfostring"
   ],
   [
     "AccountLeverage",
-    "/account/accountleverage"
+    "account/accountleverage"
   ],
   [
     "AccountMargin",
-    "/account/accountmargin"
+    "account/accountmargin"
   ],
   [
     "AccountName",
-    "/account/accountname"
+    "account/accountname"
   ],
   [
     "AccountNumber",
-    "/account/accountnumber"
+    "account/accountnumber"
   ],
   [
     "AccountProfit",
-    "/account/accountprofit"
+    "account/accountprofit"
   ],
   [
     "AccountServer",
-    "/account/accountserver"
+    "account/accountserver"
   ],
   [
     "AccountStopoutLevel",
-    "/account/accountstopoutlevel"
+    "account/accountstopoutlevel"
   ],
   [
     "AccountStopoutMode",
-    "/account/accountstopoutmode"
+    "account/accountstopoutmode"
   ],
   [
     "acos",
-    "/math/matharccos"
+    "math/matharccos"
   ],
   [
     "Alert",
-    "/common/alert"
+    "common/alert"
   ],
   [
     "ArrayBsearch",
-    "/array/arraybsearch"
+    "array/arraybsearch"
   ],
   [
     "ArrayCompare",
-    "/array/arraycompare"
+    "array/arraycompare"
   ],
   [
     "ArrayCopy",
-    "/array/arraycopy"
+    "array/arraycopy"
   ],
   [
     "ArrayCopyRates",
-    "/array/arraycopyrates"
+    "array/arraycopyrates"
   ],
   [
     "ArrayCopySeries",
-    "/array/arraycopyseries"
+    "array/arraycopyseries"
   ],
   [
     "ArrayDimension",
-    "/array/arraydimension"
+    "array/arraydimension"
   ],
   [
     "ArrayFill",
-    "/array/arrayfill"
+    "array/arrayfill"
   ],
   [
     "ArrayFree",
-    "/array/arrayfree"
+    "array/arrayfree"
   ],
   [
     "ArrayGetAsSeries",
-    "/array/arraygetasseries"
+    "array/arraygetasseries"
   ],
   [
     "ArrayInitialize",
-    "/array/arrayinitialize"
+    "array/arrayinitialize"
   ],
   [
     "ArrayIsDynamic",
-    "/array/arrayisdynamic"
+    "array/arrayisdynamic"
   ],
   [
     "ArrayIsSeries",
-    "/array/arrayisseries"
+    "array/arrayisseries"
   ],
   [
     "ArrayMaximum",
-    "/array/arraymaximum"
+    "array/arraymaximum"
   ],
   [
     "ArrayMinimum",
-    "/array/arrayminimum"
+    "array/arrayminimum"
   ],
   [
     "ArrayRange",
-    "/array/arrayrange"
+    "array/arrayrange"
   ],
   [
     "ArrayResize",
-    "/array/arrayresize"
+    "array/arrayresize"
   ],
   [
     "ArraySetAsSeries",
-    "/array/arraysetasseries"
+    "array/arraysetasseries"
   ],
   [
     "ArraySize",
-    "/array/arraysize"
+    "array/arraysize"
   ],
   [
     "ArraySort",
-    "/array/arraysort"
+    "array/arraysort"
   ],
   [
     "asin",
-    "/math/matharcsin"
+    "math/matharcsin"
   ],
   [
     "atan",
-    "/math/matharctan"
+    "math/matharctan"
   ],
   [
     "Bars",
-    "/series/barsfunction"
+    "series/barsfunction"
   ],
   [
     "ceil",
-    "/math/mathceil"
+    "math/mathceil"
   ],
   [
     "CharArrayToString",
-    "/convert/chararraytostring"
+    "convert/chararraytostring"
   ],
   [
     "ChartApplyTemplate",
-    "/chart_operations/chartapplytemplate"
+    "chart_operations/chartapplytemplate"
   ],
   [
     "ChartClose",
-    "/chart_operations/chartclose"
+    "chart_operations/chartclose"
   ],
   [
     "ChartFirst",
-    "/chart_operations/chartfirst"
+    "chart_operations/chartfirst"
   ],
   [
     "ChartGetDouble",
-    "/chart_operations/chartgetdouble"
+    "chart_operations/chartgetdouble"
   ],
   [
     "ChartGetInteger",
-    "/chart_operations/chartgetinteger"
+    "chart_operations/chartgetinteger"
   ],
   [
     "ChartGetString",
-    "/chart_operations/chartgetstring"
+    "chart_operations/chartgetstring"
   ],
   [
     "ChartID",
-    "/chart_operations/chartid"
+    "chart_operations/chartid"
   ],
   [
     "ChartIndicatorDelete",
-    "/chart_operations/chartindicatordelete"
+    "chart_operations/chartindicatordelete"
   ],
   [
     "ChartIndicatorName",
-    "/chart_operations/chartindicatorname"
+    "chart_operations/chartindicatorname"
   ],
   [
     "ChartIndicatorsTotal",
-    "/chart_operations/chartindicatorstotal"
+    "chart_operations/chartindicatorstotal"
   ],
   [
     "ChartNavigate",
-    "/chart_operations/chartnavigate"
+    "chart_operations/chartnavigate"
   ],
   [
     "ChartNext",
-    "/chart_operations/chartnext"
+    "chart_operations/chartnext"
   ],
   [
     "ChartOpen",
-    "/chart_operations/chartopen"
+    "chart_operations/chartopen"
   ],
   [
     "CharToStr",
-    "/convert/chartostr"
+    "convert/chartostr"
   ],
   [
     "CharToString",
-    "/convert/chartostring"
+    "convert/chartostring"
   ],
   [
     "ChartPeriod",
-    "/chart_operations/chartperiod"
+    "chart_operations/chartperiod"
   ],
   [
     "ChartPriceOnDropped",
-    "/chart_operations/chartpriceondropped"
+    "chart_operations/chartpriceondropped"
   ],
   [
     "ChartRedraw",
-    "/chart_operations/chartredraw"
+    "chart_operations/chartredraw"
   ],
   [
     "ChartSaveTemplate",
-    "/chart_operations/chartsavetemplate"
+    "chart_operations/chartsavetemplate"
   ],
   [
     "ChartScreenShot",
-    "/chart_operations/chartscreenshot"
+    "chart_operations/chartscreenshot"
   ],
   [
     "ChartSetDouble",
-    "/chart_operations/chartsetdouble"
+    "chart_operations/chartsetdouble"
   ],
   [
     "ChartSetInteger",
-    "/chart_operations/chartsetinteger"
+    "chart_operations/chartsetinteger"
   ],
   [
     "ChartSetString",
-    "/chart_operations/chartsetstring"
+    "chart_operations/chartsetstring"
   ],
   [
     "ChartSetSymbolPeriod",
-    "/chart_operations/chartsetsymbolperiod"
+    "chart_operations/chartsetsymbolperiod"
   ],
   [
     "ChartSymbol",
-    "/chart_operations/chartsymbol"
+    "chart_operations/chartsymbol"
   ],
   [
     "ChartTimeOnDropped",
-    "/chart_operations/charttimeondropped"
+    "chart_operations/charttimeondropped"
   ],
   [
     "ChartTimePriceToXY",
-    "/chart_operations/charttimepricetoxy"
+    "chart_operations/charttimepricetoxy"
   ],
   [
     "ChartWindowFind",
-    "/chart_operations/chartwindowfind"
+    "chart_operations/chartwindowfind"
   ],
   [
     "ChartWindowOnDropped",
-    "/chart_operations/chartwindowondropped"
+    "chart_operations/chartwindowondropped"
   ],
   [
     "ChartXOnDropped",
-    "/chart_operations/chartxondropped"
+    "chart_operations/chartxondropped"
   ],
   [
     "ChartXYToTimePrice",
-    "/chart_operations/chartxytotimeprice"
+    "chart_operations/chartxytotimeprice"
   ],
   [
     "ChartYOnDropped",
-    "/chart_operations/chartyondropped"
+    "chart_operations/chartyondropped"
   ],
   [
     "CheckPointer",
-    "/common/checkpointer"
+    "common/checkpointer"
   ],
   [
     "ColorToARGB",
-    "/convert/colortoargb"
+    "convert/colortoargb"
   ],
   [
     "ColorToString",
-    "/convert/colortostring"
+    "convert/colortostring"
   ],
   [
     "Comment",
-    "/common/comment"
+    "common/comment"
   ],
   [
     "CopyClose",
-    "/series/copyclose"
+    "series/copyclose"
   ],
   [
     "CopyHigh",
-    "/series/copyhigh"
+    "series/copyhigh"
   ],
   [
     "CopyLow",
-    "/series/copylow"
+    "series/copylow"
   ],
   [
     "CopyOpen",
-    "/series/copyopen"
+    "series/copyopen"
   ],
   [
     "CopyRates",
-    "/series/copyrates"
+    "series/copyrates"
   ],
   [
     "CopyTickVolume",
-    "/series/copytickvolume"
+    "series/copytickvolume"
   ],
   [
     "CopyTime",
-    "/series/copytime"
+    "series/copytime"
   ],
   [
     "cos",
-    "/math/mathcos"
+    "math/mathcos"
   ],
   [
     "CryptDecode",
-    "/common/crypydecode"
+    "common/crypydecode"
   ],
   [
     "CryptEncode",
-    "/common/cryptencode"
+    "common/cryptencode"
   ],
   [
     "Day",
-    "/dateandtime/day"
+    "dateandtime/day"
   ],
   [
     "DayOfWeek",
-    "/dateandtime/dayofweek"
+    "dateandtime/dayofweek"
   ],
   [
     "DayOfYear",
-    "/dateandtime/dayofyear"
+    "dateandtime/dayofyear"
   ],
   [
     "DebugBreak",
-    "/common/debugbreak"
+    "common/debugbreak"
   ],
   [
     "Digits",
-    "/check/digits"
+    "check/digits"
   ],
   [
     "DoubleToStr",
-    "/convert/doubletostr"
+    "convert/doubletostr"
   ],
   [
     "DoubleToString",
-    "/convert/doubletostring"
+    "convert/doubletostring"
   ],
   [
     "EnumToString",
-    "/convert/enumtostring"
+    "convert/enumtostring"
   ],
   [
     "ErrorDescription",
-    "/check/errordescription"
+    "check/errordescription"
   ],
   [
     "EventChartCustom",
-    "/eventfunctions/eventchartcustom"
+    "eventfunctions/eventchartcustom"
   ],
   [
     "EventKillTimer",
-    "/eventfunctions/eventkilltimer"
+    "eventfunctions/eventkilltimer"
   ],
   [
     "EventSetMillisecondTimer",
-    "/eventfunctions/eventsetmillisecondtimer"
+    "eventfunctions/eventsetmillisecondtimer"
   ],
   [
     "EventSetTimer",
-    "/eventfunctions/eventsettimer"
+    "eventfunctions/eventsettimer"
   ],
   [
     "exp",
-    "/math/mathexp"
+    "math/mathexp"
   ],
   [
     "ExpertRemove",
-    "/common/expertremove"
+    "common/expertremove"
   ],
   [
     "fabs",
-    "/math/mathabs"
+    "math/mathabs"
   ],
   [
     "FileClose",
-    "/files/fileclose"
+    "files/fileclose"
   ],
   [
     "FileCopy",
-    "/files/filecopy"
+    "files/filecopy"
   ],
   [
     "FileDelete",
-    "/files/filedelete"
+    "files/filedelete"
   ],
   [
     "FileFindClose",
-    "/files/filefindclose"
+    "files/filefindclose"
   ],
   [
     "FileFindFirst",
-    "/files/filefindfirst"
+    "files/filefindfirst"
   ],
   [
     "FileFindNext",
-    "/files/filefindnext"
+    "files/filefindnext"
   ],
   [
     "FileFlush",
-    "/files/fileflush"
+    "files/fileflush"
   ],
   [
     "FileGetInteger",
-    "/files/filegetinteger"
+    "files/filegetinteger"
   ],
   [
     "FileIsEnding",
-    "/files/fileisending"
+    "files/fileisending"
   ],
   [
     "FileIsExist",
-    "/files/fileisexist"
+    "files/fileisexist"
   ],
   [
     "FileIsLineEnding",
-    "/files/fileislineending"
+    "files/fileislineending"
   ],
   [
     "FileMove",
-    "/files/filemove"
+    "files/filemove"
   ],
   [
     "FileOpen",
-    "/files/fileopen"
+    "files/fileopen"
   ],
   [
     "FileOpenHistory",
-    "/files/fileopenhistory"
+    "files/fileopenhistory"
   ],
   [
     "FileReadArray",
-    "/files/filereadarray"
+    "files/filereadarray"
   ],
   [
     "FileReadBool",
-    "/files/filereadbool"
+    "files/filereadbool"
   ],
   [
     "FileReadDatetime",
-    "/files/filereaddatetime"
+    "files/filereaddatetime"
   ],
   [
     "FileReadDouble",
-    "/files/filereaddouble"
+    "files/filereaddouble"
   ],
   [
     "FileReadFloat",
-    "/files/filereadfloat"
+    "files/filereadfloat"
   ],
   [
     "FileReadInteger",
-    "/files/filereadinteger"
+    "files/filereadinteger"
   ],
   [
     "FileReadLong",
-    "/files/filereadlong"
+    "files/filereadlong"
   ],
   [
     "FileReadNumber",
-    "/files/filereadnumber"
+    "files/filereadnumber"
   ],
   [
     "FileReadString",
-    "/files/filereadstring"
+    "files/filereadstring"
   ],
   [
     "FileReadStruct",
-    "/files/filereadstruct"
+    "files/filereadstruct"
   ],
   [
     "FileSeek",
-    "/files/fileseek"
+    "files/fileseek"
   ],
   [
     "FileSize",
-    "/files/filesize"
+    "files/filesize"
   ],
   [
     "FileTell",
-    "/files/filetell"
+    "files/filetell"
   ],
   [
     "FileWrite",
-    "/files/filewrite"
+    "files/filewrite"
   ],
   [
     "FileWriteArray",
-    "/files/filewritearray"
+    "files/filewritearray"
   ],
   [
     "FileWriteDouble",
-    "/files/filewritedouble"
+    "files/filewritedouble"
   ],
   [
     "FileWriteFloat",
-    "/files/filewritefloat"
+    "files/filewritefloat"
   ],
   [
     "FileWriteInteger",
-    "/files/filewriteinteger"
+    "files/filewriteinteger"
   ],
   [
     "FileWriteLong",
-    "/files/filewritelong"
+    "files/filewritelong"
   ],
   [
     "FileWriteString",
-    "/files/filewritestring"
+    "files/filewritestring"
   ],
   [
     "FileWriteStruct",
-    "/files/filewritestruct"
+    "files/filewritestruct"
   ],
   [
     "floor",
-    "/math/mathfloor"
+    "math/mathfloor"
   ],
   [
     "fmax",
-    "/math/mathmax"
+    "math/mathmax"
   ],
   [
     "fmin",
-    "/math/mathmin"
+    "math/mathmin"
   ],
   [
     "fmod",
-    "/math/mathmod"
+    "math/mathmod"
   ],
   [
     "FolderClean",
-    "/files/folderclean"
+    "files/folderclean"
   ],
   [
     "FolderCreate",
-    "/files/foldercreate"
+    "files/foldercreate"
   ],
   [
     "FolderDelete",
-    "/files/folderdelete"
+    "files/folderdelete"
   ],
   [
     "GetLastError",
-    "/check/getlasterror"
+    "check/getlasterror"
   ],
   [
     "GetPointer",
-    "/common/getpointer"
+    "common/getpointer"
   ],
   [
     "GetTickCount",
-    "/common/gettickcount"
+    "common/gettickcount"
   ],
   [
     "GlobalVariableCheck",
-    "/globals/globalvariablecheck"
+    "globals/globalvariablecheck"
   ],
   [
     "GlobalVariableDel",
-    "/globals/globalvariabledel"
+    "globals/globalvariabledel"
   ],
   [
     "GlobalVariableGet",
-    "/globals/globalvariableget"
+    "globals/globalvariableget"
   ],
   [
     "GlobalVariableName",
-    "/globals/globalvariablename"
+    "globals/globalvariablename"
   ],
   [
     "GlobalVariablesDeleteAll",
-    "/globals/globalvariablesdeleteall"
+    "globals/globalvariablesdeleteall"
   ],
   [
     "GlobalVariableSet",
-    "/globals/globalvariableset"
+    "globals/globalvariableset"
   ],
   [
     "GlobalVariableSetOnCondition",
-    "/globals/globalvariablesetoncondition"
+    "globals/globalvariablesetoncondition"
   ],
   [
     "GlobalVariablesFlush",
-    "/globals/globalvariablesflush"
+    "globals/globalvariablesflush"
   ],
   [
     "GlobalVariablesTotal",
-    "/globals/globalvariablestotal"
+    "globals/globalvariablestotal"
   ],
   [
     "GlobalVariableTemp",
-    "/globals/globalvariabletemp"
+    "globals/globalvariabletemp"
   ],
   [
     "GlobalVariableTime",
-    "/globals/globalvariabletime"
+    "globals/globalvariabletime"
   ],
   [
     "HideTestIndicators",
-    "/customind/hidetestindicators"
+    "customind/hidetestindicators"
   ],
   [
     "Hour",
-    "/dateandtime/hour"
+    "dateandtime/hour"
   ],
   [
     "iAC",
-    "/indicators/iac"
+    "indicators/iac"
   ],
   [
     "iAD",
-    "/indicators/iad"
+    "indicators/iad"
   ],
   [
     "iADX",
-    "/indicators/iadx"
+    "indicators/iadx"
   ],
   [
     "iAlligator",
-    "/indicators/ialligator"
+    "indicators/ialligator"
   ],
   [
     "iAO",
-    "/indicators/iao"
+    "indicators/iao"
   ],
   [
     "iATR",
-    "/indicators/iatr"
+    "indicators/iatr"
   ],
   [
     "iBands",
-    "/indicators/ibands"
+    "indicators/ibands"
   ],
   [
     "iBandsOnArray",
-    "/indicators/ibandsonarray"
+    "indicators/ibandsonarray"
   ],
   [
     "iBars",
-    "/series/ibars"
+    "series/ibars"
   ],
   [
     "iBarShift",
-    "/series/ibarshift"
+    "series/ibarshift"
   ],
   [
     "iBearsPower",
-    "/indicators/ibearspower"
+    "indicators/ibearspower"
   ],
   [
     "iBullsPower",
-    "/indicators/ibullspower"
+    "indicators/ibullspower"
   ],
   [
     "iBWMFI",
-    "/indicators/ibwmfi"
+    "indicators/ibwmfi"
   ],
   [
     "iCCI",
-    "/indicators/icci"
+    "indicators/icci"
   ],
   [
     "iCCIOnArray",
-    "/indicators/iccionarray"
+    "indicators/iccionarray"
   ],
   [
     "iClose",
-    "/series/iclose"
+    "series/iclose"
   ],
   [
     "iCustom",
-    "/indicators/icustom"
+    "indicators/icustom"
   ],
   [
     "iDeMarker",
-    "/indicators/idemarker"
+    "indicators/idemarker"
   ],
   [
     "iEnvelopes",
-    "/indicators/ienvelopes"
+    "indicators/ienvelopes"
   ],
   [
     "iEnvelopesOnArray",
-    "/indicators/ienvelopesonarray"
+    "indicators/ienvelopesonarray"
   ],
   [
     "iForce",
-    "/indicators/iforce"
+    "indicators/iforce"
   ],
   [
     "iFractals",
-    "/indicators/ifractals"
+    "indicators/ifractals"
   ],
   [
     "iGator",
-    "/indicators/igator"
+    "indicators/igator"
   ],
   [
     "iHigh",
-    "/series/ihigh"
+    "series/ihigh"
   ],
   [
     "iHighest",
-    "/series/ihighest"
+    "series/ihighest"
   ],
   [
     "iIchimoku",
-    "/indicators/iichimoku"
+    "indicators/iichimoku"
   ],
   [
     "iLow",
-    "/series/ilow"
+    "series/ilow"
   ],
   [
     "iLowest",
-    "/series/ilowest"
+    "series/ilowest"
   ],
   [
     "iMA",
-    "/indicators/ima"
+    "indicators/ima"
   ],
   [
     "iMACD",
-    "/indicators/imacd"
+    "indicators/imacd"
   ],
   [
     "iMAOnArray",
-    "/indicators/imaonarray"
+    "indicators/imaonarray"
   ],
   [
     "iMFI",
-    "/indicators/imfi"
+    "indicators/imfi"
   ],
   [
     "iMomentum",
-    "/indicators/imomentum"
+    "indicators/imomentum"
   ],
   [
     "iMomentumOnArray",
-    "/indicators/imomentumonarray"
+    "indicators/imomentumonarray"
   ],
   [
     "IndicatorBuffers",
-    "/customind/indicatorbuffers"
+    "customind/indicatorbuffers"
   ],
   [
     "IndicatorCounted",
-    "/customind/indicatorcounted"
+    "customind/indicatorcounted"
   ],
   [
     "IndicatorDigits",
-    "/customind/indicatordigits"
+    "customind/indicatordigits"
   ],
   [
     "IndicatorSetDouble",
-    "/customindindicatorsetdouble"
+    "customindindicatorsetdouble"
   ],
   [
     "IndicatorSetInteger",
-    "/customind/indicatorsetinteger"
+    "customind/indicatorsetinteger"
   ],
   [
     "IndicatorSetString",
-    "/customind/indicatorsetstring"
+    "customind/indicatorsetstring"
   ],
   [
     "IndicatorShortName",
-    "/customind/indicatorshortname"
+    "customind/indicatorshortname"
   ],
   [
     "IntegerToString",
-    "/convert/integettostring"
+    "convert/integettostring"
   ],
   [
     "iOBV",
-    "/indicators/iobv"
+    "indicators/iobv"
   ],
   [
     "iOpen",
-    "/series/iopen"
+    "series/iopen"
   ],
   [
     "iOsMA",
-    "/indicators/iosma"
+    "indicators/iosma"
   ],
   [
     "iRSI",
-    "/indicators/irsi"
+    "indicators/irsi"
   ],
   [
     "iRSIOnArray",
-    "/indicators/irsionarray"
+    "indicators/irsionarray"
   ],
   [
     "iRVI",
-    "/indicators/irvi"
+    "indicators/irvi"
   ],
   [
     "iSAR",
-    "/indicators/isar"
+    "indicators/isar"
   ],
   [
     "IsConnected",
-    "/check/isconnected"
+    "check/isconnected"
   ],
   [
     "IsDemo",
-    "/check/isdemo"
+    "check/isdemo"
   ],
   [
     "IsDllsAllowed",
-    "/check/isdllsallowed"
+    "check/isdllsallowed"
   ],
   [
     "IsExpertEnabled",
-    "/check/isexpertenabled"
+    "check/isexpertenabled"
   ],
   [
     "IsLibrariesAllowed",
-    "/check/islibrariesallowed"
+    "check/islibrariesallowed"
   ],
   [
     "IsOptimization",
-    "/check/isoptimization"
+    "check/isoptimization"
   ],
   [
     "IsStopped",
-    "/check/isstopped"
+    "check/isstopped"
   ],
   [
     "iStdDev",
-    "/indicators/istddev"
+    "indicators/istddev"
   ],
   [
     "iStdDevOnArray",
-    "/indicators/istdevonarray"
+    "indicators/istdevonarray"
   ],
   [
     "IsTesting",
-    "/check/istesting"
+    "check/istesting"
   ],
   [
     "iStochastic",
-    "/indicators/istochastic"
+    "indicators/istochastic"
   ],
   [
     "IsTradeAllowed",
-    "/check/istradeallowed"
+    "check/istradeallowed"
   ],
   [
     "IsTradeContextBusy",
-    "/check/istradecontextbusy"
+    "check/istradecontextbusy"
   ],
   [
     "IsVisualMode",
-    "/check/isvisualmode"
+    "check/isvisualmode"
   ],
   [
     "iTime",
-    "/series/itime"
+    "series/itime"
   ],
   [
     "iVolume",
-    "/series/ivolume"
+    "series/ivolume"
   ],
   [
     "iWPR",
-    "/indicators/iwpr"
+    "indicators/iwpr"
   ],
   [
     "log",
-    "/math/mathlog"
+    "math/mathlog"
   ],
   [
     "log10",
-    "/math/mathlog10"
+    "math/mathlog10"
   ],
   [
     "MarketInfo",
-    "/marketinformation/marketinfo"
+    "marketinformation/marketinfo"
   ],
   [
     "MathAbs",
-    "/math/mathabs"
+    "math/mathabs"
   ],
   [
     "MathArccos",
-    "/math/matharccos"
+    "math/matharccos"
   ],
   [
     "MathArcsin",
-    "/math/matharcsin"
+    "math/matharcsin"
   ],
   [
     "MathArctan",
-    "/math/matharctan"
+    "math/matharctan"
   ],
   [
     "MathCeil",
-    "/math/mathceil"
+    "math/mathceil"
   ],
   [
     "MathCos",
-    "/math/mathcos"
+    "math/mathcos"
   ],
   [
     "MathExp",
-    "/math/mathexp"
+    "math/mathexp"
   ],
   [
     "MathFloor",
-    "/math/mathfloor"
+    "math/mathfloor"
   ],
   [
     "MathIsValidNumber",
-    "/math/mathisvalidnumber"
+    "math/mathisvalidnumber"
   ],
   [
     "MathLog",
-    "/math/mathlog"
+    "math/mathlog"
   ],
   [
     "MathLog10",
-    "/math/mathlog10"
+    "math/mathlog10"
   ],
   [
     "MathMax",
-    "/math/mathmax"
+    "math/mathmax"
   ],
   [
     "MathMin",
-    "/math/mathmin"
+    "math/mathmin"
   ],
   [
     "MathMod",
-    "/math/mathmod"
+    "math/mathmod"
   ],
   [
     "MathPow",
-    "/math/mathpow"
+    "math/mathpow"
   ],
   [
     "MathRand",
-    "/math/mathrand"
+    "math/mathrand"
   ],
   [
     "MathRound",
-    "/math/mathround"
+    "math/mathround"
   ],
   [
     "MathSin",
-    "/math/mathsin"
+    "math/mathsin"
   ],
   [
     "MathSqrt",
-    "/math/mathsqrt"
+    "math/mathsqrt"
   ],
   [
     "MathSrand",
-    "/math/mathsrand"
+    "math/mathsrand"
   ],
   [
     "MathTan",
-    "/math/mathtan"
+    "math/mathtan"
   ],
   [
     "MessageBox",
-    "/common/messagebox"
+    "common/messagebox"
   ],
   [
     "Minute",
-    "/dateandtime/minute"
+    "dateandtime/minute"
   ],
   [
     "Month",
-    "/dateandtime/month"
+    "dateandtime/month"
   ],
   [
     "MQLInfoInteger",
-    "/check/mqlinfointeger"
+    "check/mqlinfointeger"
   ],
   [
     "MQLInfoString",
-    "/check/mqlinfostring"
+    "check/mqlinfostring"
   ],
   [
     "MQLSetInteger",
-    "/check/mqlsetinteger"
+    "check/mqlsetinteger"
   ],
   [
     "NormalizeDouble",
-    "/convert/normalizedouble"
+    "convert/normalizedouble"
   ],
   [
     "ObjectCreate",
-    "/objects/objectcreate"
+    "objects/objectcreate"
   ],
   [
     "ObjectDelete",
-    "/objects/objectdelete"
+    "objects/objectdelete"
   ],
   [
     "ObjectDescription",
-    "/objects/objectdescription"
+    "objects/objectdescription"
   ],
   [
     "ObjectFind",
-    "/objects/objectfind"
+    "objects/objectfind"
   ],
   [
     "ObjectGet",
-    "/objects/objectget"
+    "objects/objectget"
   ],
   [
     "ObjectGetDouble",
-    "/objects/objectgetdouble"
+    "objects/objectgetdouble"
   ],
   [
     "ObjectGetFiboDescription",
-    "/objects/objectgetfibodescription"
+    "objects/objectgetfibodescription"
   ],
   [
     "ObjectGetInteger",
-    "/objects/objectgetinteger"
+    "objects/objectgetinteger"
   ],
   [
     "ObjectGetShiftByValue",
-    "/objects/objectgetshiftbyvalue"
+    "objects/objectgetshiftbyvalue"
   ],
   [
     "ObjectGetString",
-    "/objects/objectgetstring"
+    "objects/objectgetstring"
   ],
   [
     "ObjectGetTimeByValue",
-    "/objects/objectgettimebyvalue"
+    "objects/objectgettimebyvalue"
   ],
   [
     "ObjectGetValueByShift",
-    "/objects/objectgetvaluebyshift"
+    "objects/objectgetvaluebyshift"
   ],
   [
     "ObjectGetValueByTime",
-    "/objects/objectgetvaluebytime"
+    "objects/objectgetvaluebytime"
   ],
   [
     "ObjectMove",
-    "/objects/objectmove"
+    "objects/objectmove"
   ],
   [
     "ObjectName",
-    "/objects/objectname"
+    "objects/objectname"
   ],
   [
     "ObjectsDeleteAll",
-    "/objects/objectdeleteall"
+    "objects/objectdeleteall"
   ],
   [
     "ObjectSet",
-    "/objects/objectset"
+    "objects/objectset"
   ],
   [
     "ObjectSetDouble",
-    "/objects/objectsetdouble"
+    "objects/objectsetdouble"
   ],
   [
     "ObjectSetFiboDescription",
-    "/objects/objectsetfibodescription"
+    "objects/objectsetfibodescription"
   ],
   [
     "ObjectSetInteger",
-    "/objects/objectsetinteger"
+    "objects/objectsetinteger"
   ],
   [
     "ObjectSetString",
-    "/objects/objectsetstring"
+    "objects/objectsetstring"
   ],
   [
     "ObjectSetText",
-    "/objects/objectsettext"
+    "objects/objectsettext"
   ],
   [
     "ObjectsTotal",
-    "/objects/objectstotal"
+    "objects/objectstotal"
   ],
   [
     "ObjectType",
-    "/objects/objecttype"
+    "objects/objecttype"
   ],
   [
     "OrderClose",
-    "/trading/orderclose"
+    "trading/orderclose"
   ],
   [
     "OrderCloseBy",
-    "/trading/ordercloseby"
+    "trading/ordercloseby"
   ],
   [
     "OrderClosePrice",
-    "/trading/ordercloseprice"
+    "trading/ordercloseprice"
   ],
   [
     "OrderCloseTime",
-    "/trading/orderclosetime"
+    "trading/orderclosetime"
   ],
   [
     "OrderComment",
-    "/trading/ordercomment"
+    "trading/ordercomment"
   ],
   [
     "OrderCommission",
-    "/trading/ordercomission"
+    "trading/ordercomission"
   ],
   [
     "OrderDelete",
-    "/trading/orderdelete"
+    "trading/orderdelete"
   ],
   [
     "OrderExpiration",
-    "/trading/orderexpiration"
+    "trading/orderexpiration"
   ],
   [
     "OrderLots",
-    "/trading/orderlots"
+    "trading/orderlots"
   ],
   [
     "OrderMagicNumber",
-    "/trading/ordermagicnumber"
+    "trading/ordermagicnumber"
   ],
   [
     "OrderModify",
-    "/trading/ordermodify"
+    "trading/ordermodify"
   ],
   [
     "OrderOpenPrice",
-    "/trading/orderopenprice"
+    "trading/orderopenprice"
   ],
   [
     "OrderOpenTime",
-    "/trading/orderopentime"
+    "trading/orderopentime"
   ],
   [
     "OrderPrint",
-    "/trading/orderprint"
+    "trading/orderprint"
   ],
   [
     "OrderProfit",
-    "/trading/orderprofit"
+    "trading/orderprofit"
   ],
   [
     "OrderSelect",
-    "/trading/orderselect"
+    "trading/orderselect"
   ],
   [
     "OrderSend",
-    "/trading/ordersend"
+    "trading/ordersend"
   ],
   [
     "OrdersHistoryTotal",
-    "/trading/orderhistorytotal"
+    "trading/orderhistorytotal"
   ],
   [
     "OrderStopLoss",
-    "/trading/orderstoploss"
+    "trading/orderstoploss"
   ],
   [
     "OrdersTotal",
-    "/trading/ordertotal"
+    "trading/ordertotal"
   ],
   [
     "OrderSwap",
-    "/trading/orderswap"
+    "trading/orderswap"
   ],
   [
     "OrderSymbol",
-    "/trading/ordersymbol"
+    "trading/ordersymbol"
   ],
   [
     "OrderTakeProfit",
-    "/trading/ordertakeprofit"
+    "trading/ordertakeprofit"
   ],
   [
     "OrderTicket",
-    "/trading/orderticket"
+    "trading/orderticket"
   ],
   [
     "OrderType",
-    "/trading/ordertype"
+    "trading/ordertype"
   ],
   [
     "Period",
-    "/check/period"
+    "check/period"
   ],
   [
     "Period",
-    "/chart_operations/chartperiod"
+    "chart_operations/chartperiod"
   ],
   [
     "PeriodSeconds",
-    "/common/periodseconds"
+    "common/periodseconds"
   ],
   [
     "PlaySound",
-    "/common/playsound"
+    "common/playsound"
   ],
   [
     "Point",
-    "/check/point"
+    "check/point"
   ],
   [
     "pow",
-    "/math/mathpow"
+    "math/mathpow"
   ],
   [
     "Print",
-    "/common/print"
+    "common/print"
   ],
   [
     "PrintFormat",
-    "/common/printformat"
+    "common/printformat"
   ],
   [
     "rand",
-    "/math/mathrand"
+    "math/mathrand"
   ],
   [
     "RefreshRates",
-    "/series/refreshrates"
+    "series/refreshrates"
   ],
   [
     "ResetLastError",
-    "/common/resetlasterror"
+    "common/resetlasterror"
   ],
   [
     "ResourceCreate",
-    "/common/resourcecreate"
+    "common/resourcecreate"
   ],
   [
     "ResourceFree",
-    "/common/resourcefree"
+    "common/resourcefree"
   ],
   [
     "ResourceReadImage",
-    "/common/resourcereadimage"
+    "common/resourcereadimage"
   ],
   [
     "ResourceSave",
-    "/common/resourcesave"
+    "common/resourcesave"
   ],
   [
     "round",
-    "/math/mathround"
+    "math/mathround"
   ],
   [
     "Seconds",
-    "/dateandtime/seconds"
+    "dateandtime/seconds"
   ],
   [
     "SendFTP",
-    "/common/sendftp"
+    "common/sendftp"
   ],
   [
     "SendMail",
-    "/common/sendmail"
+    "common/sendmail"
   ],
   [
     "SendNotification",
-    "/common/sendnotification"
+    "common/sendnotification"
   ],
   [
     "SeriesInfoInteger",
-    "/series/seriesinfointeger"
+    "series/seriesinfointeger"
   ],
   [
     "SetIndexArrow",
-    "/customind/setindexarrow"
+    "customind/setindexarrow"
   ],
   [
     "SetIndexBuffer",
-    "/customind/setindexbuffer"
+    "customind/setindexbuffer"
   ],
   [
     "SetIndexDrawBegin",
-    "/customind/setindexdrawbegin"
+    "customind/setindexdrawbegin"
   ],
   [
     "SetIndexEmptyValue",
-    "/customind/setindexemptyvalue"
+    "customind/setindexemptyvalue"
   ],
   [
     "SetIndexLabel",
-    "/customind/setindexlabel"
+    "customind/setindexlabel"
   ],
   [
     "SetIndexShift",
-    "/customind/setindexshift"
+    "customind/setindexshift"
   ],
   [
     "SetIndexStyle",
-    "/customind/setindexstyle"
+    "customind/setindexstyle"
   ],
   [
     "SetLevelStyle",
-    "/customind/setlevelstyle"
+    "customind/setlevelstyle"
   ],
   [
     "SetLevelValue",
-    "/customind/setlevelvalue"
+    "customind/setlevelvalue"
   ],
   [
     "ShortArrayToString",
-    "/convert/shortarraytostring"
+    "convert/shortarraytostring"
   ],
   [
     "ShortToString",
-    "/convert/shorttostring"
+    "convert/shorttostring"
   ],
   [
     "SignalBaseGetDouble",
-    "/signals/signalbasegetdouble"
+    "signals/signalbasegetdouble"
   ],
   [
     "SignalBaseGetInteger",
-    "/signals/signalbasegetinteger"
+    "signals/signalbasegetinteger"
   ],
   [
     "SignalBaseGetString",
-    "/signals/signalbasegetstring"
+    "signals/signalbasegetstring"
   ],
   [
     "SignalBaseSelect",
-    "/signals/signalbaseselect"
+    "signals/signalbaseselect"
   ],
   [
     "SignalBaseTotal",
-    "/signals/signalbasetotal"
+    "signals/signalbasetotal"
   ],
   [
     "SignalInfoGetDouble",
-    "/signals/signalinfogetdouble"
+    "signals/signalinfogetdouble"
   ],
   [
     "SignalInfoGetInteger",
-    "/signals/signalinfogetinteger"
+    "signals/signalinfogetinteger"
   ],
   [
     "SignalInfoGetString",
-    "/signals/signalinfogetstring"
+    "signals/signalinfogetstring"
   ],
   [
     "SignalInfoSetDouble",
-    "/signals/signalinfosetdouble"
+    "signals/signalinfosetdouble"
   ],
   [
     "SignalInfoSetInteger",
-    "/signals/signalinfosetinteger"
+    "signals/signalinfosetinteger"
   ],
   [
     "SignalSubscribe",
-    "/signals/signalsubscribe"
+    "signals/signalsubscribe"
   ],
   [
     "SignalUnsubscribe",
-    "/signals/signalunsubscribe"
+    "signals/signalunsubscribe"
   ],
   [
     "sin",
-    "/math/mathsin"
+    "math/mathsin"
   ],
   [
     "Sleep",
-    "/common/sleep"
+    "common/sleep"
   ],
   [
     "sqrt",
-    "/math/mathsqrt"
+    "math/mathsqrt"
   ],
   [
     "srand",
-    "/math/mathstrand"
+    "math/mathstrand"
   ],
   [
     "StringAdd",
-    "/strings/stringadd"
+    "strings/stringadd"
   ],
   [
     "StringBufferLen",
-    "/strings/stringbufferlen"
+    "strings/stringbufferlen"
   ],
   [
     "StringCompare",
-    "/strings/stringcompare"
+    "strings/stringcompare"
   ],
   [
     "StringConcatenate",
-    "/strings/stringconcatenate"
+    "strings/stringconcatenate"
   ],
   [
     "StringFill",
-    "/strings/stringfill"
+    "strings/stringfill"
   ],
   [
     "StringFind",
-    "/strings/stringfind"
+    "strings/stringfind"
   ],
   [
     "StringFormat",
-    "/convert/stringformat"
+    "convert/stringformat"
   ],
   [
     "StringGetChar",
-    "/strings/stringgetchar"
+    "strings/stringgetchar"
   ],
   [
     "StringGetCharacter",
-    "/strings/stringgetcharacter"
+    "strings/stringgetcharacter"
   ],
   [
     "StringInit",
-    "/strings/stringinit"
+    "strings/stringinit"
   ],
   [
     "StringLen",
-    "/strings/stringlen"
+    "strings/stringlen"
   ],
   [
     "StringReplace",
-    "/strings/stringreplace"
+    "strings/stringreplace"
   ],
   [
     "StringSetChar",
-    "/strings/stringsetchar"
+    "strings/stringsetchar"
   ],
   [
     "StringSetCharacter",
-    "/strings/stringsetcharacter"
+    "strings/stringsetcharacter"
   ],
   [
     "StringSplit",
-    "/strings/stringsplit"
+    "strings/stringsplit"
   ],
   [
     "StringSubstr",
-    "/strings/stringsubstr"
+    "strings/stringsubstr"
   ],
   [
     "StringToCharArray",
-    "/convert/stringtochararray"
+    "convert/stringtochararray"
   ],
   [
     "StringToColor",
-    "/convert/stringtocolor"
+    "convert/stringtocolor"
   ],
   [
     "StringToDouble",
-    "/convert/stringtodouble"
+    "convert/stringtodouble"
   ],
   [
     "StringToInteger",
-    "/convert/stringtointeger"
+    "convert/stringtointeger"
   ],
   [
     "StringToLower",
-    "/strings/stringtolower"
+    "strings/stringtolower"
   ],
   [
     "StringToShortArray",
-    "/convert/stringtoshortarray"
+    "convert/stringtoshortarray"
   ],
   [
     "StringToTime",
-    "/convert/stringtotime"
+    "convert/stringtotime"
   ],
   [
     "StringToUpper",
-    "/strings/stringtoupper"
+    "strings/stringtoupper"
   ],
   [
     "StringTrimLeft",
-    "/strings/stringtrimleft"
+    "strings/stringtrimleft"
   ],
   [
     "StringTrimRight",
-    "/strings/stringtrimright"
+    "strings/stringtrimright"
   ],
   [
     "StrToDouble",
-    "/convert/strtodouble"
+    "convert/strtodouble"
   ],
   [
     "StrToInteger",
-    "/convert/strtointeger"
+    "convert/strtointeger"
   ],
   [
     "StrToTime",
-    "/convert/strtotime"
+    "convert/strtotime"
   ],
   [
     "StructToTime",
-    "/dateandtime/structtotime"
+    "dateandtime/structtotime"
   ],
   [
     "Symbol",
-    "/check/symbol"
+    "check/symbol"
   ],
   [
     "SymbolInfoDouble",
-    "/marketinformation/symbolinfodouble"
+    "marketinformation/symbolinfodouble"
   ],
   [
     "SymbolInfoInteger",
-    "/marketinformation/symbolinfointeger"
+    "marketinformation/symbolinfointeger"
   ],
   [
     "SymbolInfoSessionQuote",
-    "/marketinformation/symbolinfosessionquote"
+    "marketinformation/symbolinfosessionquote"
   ],
   [
     "SymbolInfoSessionTrade",
-    "/marketinformation/symbolsessiontrade"
+    "marketinformation/symbolsessiontrade"
   ],
   [
     "SymbolInfoString",
-    "/marketinformation/symbolinfostring"
+    "marketinformation/symbolinfostring"
   ],
   [
     "SymbolInfoTick",
-    "/marketinformation/symbolinfotick"
+    "marketinformation/symbolinfotick"
   ],
   [
     "SymbolName",
-    "/marketinformation/symbolname"
+    "marketinformation/symbolname"
   ],
   [
     "SymbolSelect",
-    "/marketinformation/symbolselect"
+    "marketinformation/symbolselect"
   ],
   [
     "SymbolsTotal",
-    "/marketinformation/symboltotal"
+    "marketinformation/symboltotal"
   ],
   [
     "tan",
-    "/math/mathtan"
+    "math/mathtan"
   ],
   [
     "TerminalClose",
-    "/common/terminalclose"
+    "common/terminalclose"
   ],
   [
     "TerminalCompany",
-    "/check/terminalcompany"
+    "check/terminalcompany"
   ],
   [
     "TerminalInfoDouble",
-    "/check/terminalinfodouble"
+    "check/terminalinfodouble"
   ],
   [
     "TerminalInfoInteger",
-    "/check/terminalinfointeger"
+    "check/terminalinfointeger"
   ],
   [
     "TerminalInfoString",
-    "/check/terminalinfostring"
+    "check/terminalinfostring"
   ],
   [
     "TerminalName",
-    "/check/terminalname"
+    "check/terminalname"
   ],
   [
     "TerminalPath",
-    "/check/terminalpath"
+    "check/terminalpath"
   ],
   [
     "TesterStatistics",
-    "/common/testerstatistics"
+    "common/testerstatistics"
   ],
   [
     "TextGetSize",
-    "/objects/textgetsize"
+    "objects/textgetsize"
   ],
   [
     "TextOut",
-    "/objects/textout"
+    "objects/textout"
   ],
   [
     "TextSetFont",
-    "/objects/textsetfont"
+    "objects/textsetfont"
   ],
   [
     "TimeCurrent",
-    "/dateandtime/timecurrent"
+    "dateandtime/timecurrent"
   ],
   [
     "TimeDay",
-    "/dateandtime/timeday"
+    "dateandtime/timeday"
   ],
   [
     "TimeDaylightSavings",
-    "/dateandtime/timedaylightsavings"
+    "dateandtime/timedaylightsavings"
   ],
   [
     "TimeDayOfWeek",
-    "/dateandtime/timedayofweek"
+    "dateandtime/timedayofweek"
   ],
   [
     "TimeDayOfYear",
-    "/dateandtime/timedayofyear"
+    "dateandtime/timedayofyear"
   ],
   [
     "TimeGMT",
-    "/dateandtime/timegmt"
+    "dateandtime/timegmt"
   ],
   [
     "TimeGMTOffset",
-    "/dateandtime/timegmtoffset"
+    "dateandtime/timegmtoffset"
   ],
   [
     "TimeHour",
-    "/dateandtime/timehour"
+    "dateandtime/timehour"
   ],
   [
     "TimeLocal",
-    "/dateandtime/timelocal"
+    "dateandtime/timelocal"
   ],
   [
     "TimeMinute",
-    "/dateandtime/timeminute"
+    "dateandtime/timeminute"
   ],
   [
     "TimeMonth",
-    "/dateandtime/timemonth"
+    "dateandtime/timemonth"
   ],
   [
     "TimeSeconds",
-    "/dateandtime/timeseconds"
+    "dateandtime/timeseconds"
   ],
   [
     "TimeToStr",
-    "/convert/timetostr"
+    "convert/timetostr"
   ],
   [
     "TimeToString",
-    "/convert/timetostring"
+    "convert/timetostring"
   ],
   [
     "TimeToStruct",
-    "/dateandtime/timetostruct"
+    "dateandtime/timetostruct"
   ],
   [
     "TimeYear",
-    "/dateandtime/timeyear"
+    "dateandtime/timeyear"
   ],
   [
     "UninitializeReason",
-    "/check/uninitializereason"
+    "check/uninitializereason"
   ],
   [
     "WebRequest",
-    "/common/webrequest"
+    "common/webrequest"
   ],
   [
     "WindowBarsPerChart",
-    "/chart_operations/windowbarsperchart"
+    "chart_operations/windowbarsperchart"
   ],
   [
     "WindowExpertName",
-    "/chart_operations/windowexpertname"
+    "chart_operations/windowexpertname"
   ],
   [
     "WindowFind",
-    "/chart_operations/windowfind"
+    "chart_operations/windowfind"
   ],
   [
     "WindowFirstVisibleBar",
-    "/chart_operations/windowfirstvisiblebar"
+    "chart_operations/windowfirstvisiblebar"
   ],
   [
     "WindowHandle",
-    "/chart_operations/windowhandle"
+    "chart_operations/windowhandle"
   ],
   [
     "WindowIsVisible",
-    "/chart_operations/windowisvisible"
+    "chart_operations/windowisvisible"
   ],
   [
     "WindowOnDropped",
-    "/chart_operations/windowondropped"
+    "chart_operations/windowondropped"
   ],
   [
     "WindowPriceMax",
-    "/chart_operations/windowpricemax"
+    "chart_operations/windowpricemax"
   ],
   [
     "WindowPriceMin",
-    "/chart_operations/windowpricemin"
+    "chart_operations/windowpricemin"
   ],
   [
     "WindowPriceOnDropped",
-    "/chart_operations/windowpriceondropped"
+    "chart_operations/windowpriceondropped"
   ],
   [
     "WindowRedraw",
-    "/chart_operations/windowredraw"
+    "chart_operations/windowredraw"
   ],
   [
     "WindowScreenShot",
-    "/chart_operations/windowscreenshot"
+    "chart_operations/windowscreenshot"
   ],
   [
     "WindowsTotal",
-    "/chart_operations/windowtotal"
+    "chart_operations/windowtotal"
   ],
   [
     "WindowTimeOnDropped",
-    "/chart_operations/windowtimeondropped"
+    "chart_operations/windowtimeondropped"
   ],
   [
     "WindowXOnDropped",
-    "/chart_operations/windowxondropped"
+    "chart_operations/windowxondropped"
   ],
   [
     "WindowYOnDropped",
-    "/chart_operations/windowyondropped"
+    "chart_operations/windowyondropped"
   ],
   [
     "Year",
-    "/dateandtime/year"
+    "dateandtime/year"
   ],
   [
     "ZeroMemory",
-    "/common/zeromemory"
+    "common/zeromemory"
   ]
 ]

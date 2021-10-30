@@ -87,7 +87,7 @@ public class MQL4RunCompilerConfiguration extends RunConfigurationBase<RunProfil
         if (fileToCompile.isEmpty()) {
             throw new RuntimeConfigurationException("No MQL4 file selected.");
         }
-        VirtualFile file = getFileToCompileAsVirtualFile();
+        File file = getFileToCompileAsFile();
         if (file == null || !file.exists()) {
             throw new RuntimeConfigurationException("File not found: " + fileToCompile);
         }
